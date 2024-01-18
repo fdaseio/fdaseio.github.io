@@ -1,5 +1,20 @@
 project:
   type: website
+  output-dir: docs
+  
+  preview: 
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!etc/"
+
+  resources:
+  - "files/**"
+  - "etc/**"
 
 website:
   title: "Functional Data Analysis SEIO Working Group"
