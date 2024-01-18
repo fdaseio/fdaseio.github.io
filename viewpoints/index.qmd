@@ -5,8 +5,8 @@ subtitle: "Critical perspectives on the stories, themes, challenges and opportun
 search: false
 listing:
   contents: 
-  - editors-blog
-  - interviews
+  # - editors-blog
+  # - interviews
   - posts
   - "!index.qmd"
   sort: "date desc"
