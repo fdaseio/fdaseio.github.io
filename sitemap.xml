@@ -1,243 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://realworlddatascience.net/viewpoints/posts/2023/12/06/ai-fringe.html</loc>
-    <lastmod>2024-01-18T12:17:28.937Z</lastmod>
+    <loc>https://fdaseio.github.io/ts-and-cs.html</loc>
+    <lastmod>2025-01-24T22:02:56.253Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/viewpoints/posts/2023/09/18/pseudo-data-science.html</loc>
-    <lastmod>2024-01-18T12:17:26.441Z</lastmod>
+    <loc>https://fdaseio.github.io/miembros/career-profiles/tamanna-haque/tamanna-haque.html</loc>
+    <lastmod>2025-01-24T22:02:56.253Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/viewpoints/posts/2023/08/17/data-science-and-games.html</loc>
-    <lastmod>2024-01-18T12:17:24.661Z</lastmod>
+    <loc>https://fdaseio.github.io/join.html</loc>
+    <lastmod>2025-01-24T22:02:56.252Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/viewpoints/newsletter/index.html</loc>
-    <lastmod>2024-01-18T12:17:22.865Z</lastmod>
+    <loc>https://fdaseio.github.io/feeds.html</loc>
+    <lastmod>2025-01-24T22:02:56.251Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/ts-and-cs.html</loc>
-    <lastmod>2024-01-18T12:17:21.577Z</lastmod>
+    <loc>https://fdaseio.github.io/eventos/posts/2024/road-to-reproducible-research.html</loc>
+    <lastmod>2025-01-24T22:02:56.239Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/latest-content.html</loc>
-    <lastmod>2024-01-18T12:17:20.737Z</lastmod>
+    <loc>https://fdaseio.github.io/contact.html</loc>
+    <lastmod>2025-01-24T22:02:56.191Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/ideas/tutorials/posts/2023/12/12/xmas-cards.html</loc>
-    <lastmod>2024-01-18T12:17:14.401Z</lastmod>
+    <loc>https://fdaseio.github.io/about-rwds.html</loc>
+    <lastmod>2025-01-24T22:02:56.191Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/ideas/tutorials/index.html</loc>
-    <lastmod>2024-01-18T12:17:10.357Z</lastmod>
+    <loc>https://fdaseio.github.io/eventos/index.html</loc>
+    <lastmod>2025-01-24T22:02:56.225Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/ideas/posts/2023/07/03/trusted-AI.html</loc>
-    <lastmod>2024-01-18T12:17:08.281Z</lastmod>
+    <loc>https://fdaseio.github.io/eventos/posts/2025/workshop_madrid.html</loc>
+    <lastmod>2025-01-24T22:02:56.250Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/17/dsb-live.html</loc>
-    <lastmod>2024-01-18T12:17:05.761Z</lastmod>
+    <loc>https://fdaseio.github.io/index.html</loc>
+    <lastmod>2025-01-24T22:02:56.252Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/03/02/basket-complementarity.html</loc>
-    <lastmod>2024-01-18T12:17:04.013Z</lastmod>
+    <loc>https://fdaseio.github.io/latest-content.html</loc>
+    <lastmod>2025-01-24T22:02:56.252Z</lastmod>
   </url>
   <url>
-    <loc>https://realworlddatascience.net/ideas/datasciencebites/posts/2022/12/13/ridesharing.html</loc>
-    <lastmod>2024-01-18T12:17:02.161Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/feeds.html</loc>
-    <lastmod>2024-01-18T12:17:00.469Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/style-guide.html</loc>
-    <lastmod>2024-01-18T12:16:59.901Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/explainers.html</loc>
-    <lastmod>2024-01-18T12:16:59.233Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/datasets.html</loc>
-    <lastmod>2024-01-18T12:16:58.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/contributor-guidelines.html</loc>
-    <lastmod>2024-01-18T12:16:57.853Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/call-for-contributions.html</loc>
-    <lastmod>2024-01-18T12:16:57.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/11/22/splink.html</loc>
-    <lastmod>2024-01-18T12:16:56.561Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/08/21/06-value-of-competitions.html</loc>
-    <lastmod>2024-01-18T12:16:53.977Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/08/21/04-second-place-winners.html</loc>
-    <lastmod>2024-01-18T12:16:51.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/08/21/02-competition-design.html</loc>
-    <lastmod>2024-01-18T12:16:48.949Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/08/21/00-food-for-thought.html</loc>
-    <lastmod>2024-01-18T12:16:45.857Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/index.html</loc>
-    <lastmod>2024-01-18T12:16:43.505Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/posts/2023/05/11/chatgpt-data-science-pt1.html</loc>
-    <lastmod>2024-01-18T12:16:40.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/index.html</loc>
-    <lastmod>2024-01-18T12:16:38.273Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/posts/2023/06/28/claire-morton.html</loc>
-    <lastmod>2024-01-18T12:16:35.401Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/posts/2023/06/20/chanuki-seresinhe.html</loc>
-    <lastmod>2024-01-18T12:16:33.261Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/posts/2023/04/24/sami-rahman.html</loc>
-    <lastmod>2024-01-18T12:16:31.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/index.html</loc>
-    <lastmod>2024-01-18T12:16:28.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/about-rwds.html</loc>
-    <lastmod>2024-01-18T12:16:26.913Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/posts/2023/03/28/tamanna-haque.html</loc>
-    <lastmod>2024-01-18T12:16:30.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/posts/2023/05/24/jasmine-holdsworth.html</loc>
-    <lastmod>2024-01-18T12:16:32.189Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/posts/2023/06/28/albert-lee.html</loc>
-    <lastmod>2024-01-18T12:16:34.209Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/career-profiles/posts/2023/10/04/niclas-thomas.html</loc>
-    <lastmod>2024-01-18T12:16:36.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/posts/2023/04/18/politics-of-performance-measurement.html</loc>
-    <lastmod>2024-01-18T12:16:39.593Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/careers/posts/2023/05/18/chatgpt-data-science-pt2.html</loc>
-    <lastmod>2024-01-18T12:16:41.889Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/06/15/road-to-reproducible-research.html</loc>
-    <lastmod>2024-01-18T12:16:44.937Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/08/21/01-purchase-to-plate.html</loc>
-    <lastmod>2024-01-18T12:16:47.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/08/21/03-first-place-winners.html</loc>
-    <lastmod>2024-01-18T12:16:50.177Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/08/21/05-third-place-winners.html</loc>
-    <lastmod>2024-01-18T12:16:52.313Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/case-studies/posts/2023/11/16/learning-from-failure.html</loc>
-    <lastmod>2024-01-18T12:16:55.477Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contact.html</loc>
-    <lastmod>2024-01-18T12:16:56.829Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/case-studies.html</loc>
-    <lastmod>2024-01-18T12:16:57.489Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/datasciencebites.html</loc>
-    <lastmod>2024-01-18T12:16:58.217Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/exercises.html</loc>
-    <lastmod>2024-01-18T12:16:58.865Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/recommender.html</loc>
-    <lastmod>2024-01-18T12:16:59.573Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/contributor-docs/training-guides.html</loc>
-    <lastmod>2024-01-18T12:17:00.217Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/ideas/datasciencebites/index.html</loc>
-    <lastmod>2024-01-18T12:17:01.169Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/01/24/pulling-patterns.html</loc>
-    <lastmod>2024-01-18T12:17:03.045Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/ideas/datasciencebites/posts/2023/07/13/choosing-right-forecast.html</loc>
-    <lastmod>2024-01-18T12:17:04.985Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/ideas/index.html</loc>
-    <lastmod>2024-01-18T12:17:07.065Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/ideas/posts/2023/11/06/how-to-open-science.html</loc>
-    <lastmod>2024-01-18T12:17:09.949Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/ideas/tutorials/posts/2023/04/13/flowers.html</loc>
-    <lastmod>2024-01-18T12:17:13.033Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/index.html</loc>
-    <lastmod>2024-01-18T12:17:16.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/rwds-partners.html</loc>
-    <lastmod>2024-01-18T12:17:21.037Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/viewpoints/index.html</loc>
-    <lastmod>2024-01-18T12:17:22.537Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/viewpoints/posts/2023/06/05/no-AI-probably-wont-kill-us.html</loc>
-    <lastmod>2024-01-18T12:17:23.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/viewpoints/posts/2023/09/06/biased-algorithms.html</loc>
-    <lastmod>2024-01-18T12:17:25.533Z</lastmod>
-  </url>
-  <url>
-    <loc>https://realworlddatascience.net/viewpoints/posts/2023/10/20/ai-for-humanity.html</loc>
-    <lastmod>2024-01-18T12:17:27.441Z</lastmod>
+    <loc>https://fdaseio.github.io/miembros/index.html</loc>
+    <lastmod>2025-01-24T22:02:56.253Z</lastmod>
   </url>
 </urlset>
