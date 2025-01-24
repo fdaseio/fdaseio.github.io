@@ -1,34 +1,69 @@
 ---
-title: "Welcome to Real World Data Science"
-subtitle: A showcase for data science in action
+title: "Bienvenido a FDA-SEIO"
 sidebar: false
 page-layout: article
 toc: false
 title-block-banner: true
 ---
-Welcome to the home of **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace.
 
-## What are our aims?
-Real World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to: 
+## ¿Qué es el Análisis de Datos Funcionales?
+Es un conjunto de técnicas estadísticas desarrolladas con objeto de resolver problemas reales en los que los datos tratados son curvas que proceden de la observación de una variable aleatoria con valores en un espacio de dimensión infinita. El caso más conocido es el de los procesos estocásticos, cuyas realizaciones son funciones dependientes del tiempo.
 
-* discover and learn more efficiently;  
-* acquire practical problem-solving skills;  
-* share their knowledge and accomplishments publicly;  
-* work smarter, ethically, and more effectively.  
+## Historia del grupo
+La creación del grupo Análisis de Datos Funcionales de la SEIO fue aprobada en el Consejo Ejecutivo de la SEIO que tuvo lugar en Murcia en febrero de 2009 durante la celebración del XXXI Congreso Nacional de Estadística e Investigación Operativa. Dicha formación fue impulsada por la profesora Ana María Aguilera del Pino (Universidad de Granada) y respaldada por:
 
-## What we provide
-Resources are *created* to meet the needs of our target audiences. These include: 
+  - Ana María Aguilera del Pino (Universidad de Granada)
+  - Juan Antonio Cuesta Albertos (Universidad de Cantabria)
+  - Antonio Cuevas González (Universidad Autónoma de Madrid)
+  - Pedro Delicado Useros (Universidad Politécnica de Cataluña)
+  - Manuel Escabias Machuca (Universidad de Granada)
+  - Manuel Febrero Bande (Universidad de Santiago de Compostela)
+  - Pedro Galeano San Miguel (Universidad Carlos III)
+  - Wenceslao González Mantenga (Universidad de Santiago de Compostela)
+  - Francisco Antonio Ocaña Lara (Universidad de Granada)
+  - Paula Rodríguez Bouzas (Universidad de Granada)
+  - Juan Romo Urroz (Universidad Carlos III de Madrid)
+  - Mariano José Valderrama Bonnet (Universidad de Granada)
 
-* **Case studies** – showing how data science is used to solve real-world problems in business, public policy and beyond. 
-* **Explainers** – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices.
-* **Exercises** – to challenge and develop the analytical mindset that all data scientists need to succeed.    
-* **Advice** – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development. 
+Tras la consolidación del grupo, el profesor Pedro Delicado Useros (Universitat Politècnica de Catalunya) tomó el cargo de coordinador en el año 2013. En 2015, le sucedió la profesora Carmen Aguilera Morillo (Universidad Carlos III de Madrid). Bajo esta coordinación se creó el I International Workshop in Advances on Functional Data Analysis, dando lugar desde entonces y hasta la fecha a sucesivos encuentros bajo este formato en el que se fomenta no sólo el contacto con figuras internacionales expertas en la materia sino también aumentar la visibilidad de jóvenes promesas en la materia. En 2018 y hasta 2022, la coordinación estuvo a cargo de Paula Navarro Esteban, profesora de la Universidad de Cantabria. Desde 2022 hasta la actualidad la coordinación está a cargo de Antonio Elías (Universidad de Málaga) y Luis Alberto Rodríguez (Universidad de Gottigen).
 
-We are also *curating* resources to help data scientists identify trustworthy, high-quality content. These include: 
+## Lineas de trabajo
 
-* **Training guides** – step-by-step approaches and recommended sources for learning new skills and methods. 
-* **Datasets** – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs. 
-* **Feeds** – who and what to follow to keep up with new ideas and developments.
+  - Modelos de regresión lineal funcional
+  - Modelos lineales generalizados funcionales
+  - Regresión PLS funcional
+  - Inferencia y predicción en procesos Hilbertianos autoregresivos
+  - Procesos de Poisson con intensidad aleatoria
+  - Implementación de métodos computacionales en FDA
+  - Análisis en componentes principales funcional
+  - Análisis de correlaciones canónicas funcional
+  - Clasificación de datos funcionales
+  - Análisis no paramétrico de datos funcionales
+  - Medidas de profundidad funcional
 
-## How you can get involved
-See our open [call for contributions](contributor-docs/call-for-contributions.qmd).
+<!-- Welcome to the home of **Real World Data Science**, a new project from the [Royal Statistical Society](https://rss.org.uk/), in partnership with the [American Statistical Association](https://www.amstat.org/). This site and its content are being developed by data science practitioners and leaders with a single goal in mind: to help you deliver high quality, ethical, impactful data science in your workplace. -->
+
+<!-- ## What are our aims? -->
+<!-- Real World Data Science aims to be a trusted, go-to source for high-quality, engaging and inspiring content which helps data science students, practitioners and leaders to:  -->
+
+<!-- * discover and learn more efficiently;   -->
+<!-- * acquire practical problem-solving skills;   -->
+<!-- * share their knowledge and accomplishments publicly;   -->
+<!-- * work smarter, ethically, and more effectively.   -->
+
+<!-- ## What we provide -->
+<!-- Resources are *created* to meet the needs of our target audiences. These include:  -->
+
+<!-- * **Case studies** – showing how data science is used to solve real-world problems in business, public policy and beyond.  -->
+<!-- * **Explainers** – interrogating the underlying assumptions and limitations of data science tools and methods, to help data scientists make smarter, more informed analytical choices. -->
+<!-- * **Exercises** – to challenge and develop the analytical mindset that all data scientists need to succeed.     -->
+<!-- * **Advice** – interviews, Q&As, and FAQs on such topics as data science ethics, career paths, and communication, to support professional development.  -->
+
+<!-- We are also *curating* resources to help data scientists identify trustworthy, high-quality content. These include:  -->
+
+<!-- * **Training guides** – step-by-step approaches and recommended sources for learning new skills and methods.  -->
+<!-- * **Datasets** – tagged and sorted to help educators and practitioners find data to meet their teaching and training needs.  -->
+<!-- * **Feeds** – who and what to follow to keep up with new ideas and developments. -->
+
+<!-- ## How you can get involved -->
+<!-- See our open [call for contributions](contributor-docs/call-for-contributions.qmd). -->

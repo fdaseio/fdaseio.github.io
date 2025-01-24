@@ -1,0 +1,16 @@
+---
+pagetitle: Miembros del Grupo | FDA-SEIO
+title: Miembros
+search: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 12
+comments: false
+---
+
+

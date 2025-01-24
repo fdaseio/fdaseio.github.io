@@ -1,0 +1,18 @@
+---
+title: "Antonio Elías Fernández"
+description: |
+  Trabajo en medidas de profundidad y aplicaciones a diferentes problemas estadísticos.
+categories:
+  - Functional Data
+  - Machine learning
+author: Universidad de Málaga
+image: tamanna-haque-crop.png
+toc: false
+---
+
+
+![Photo supplied by Tamanna Haque.](tamanna-haque.png){fig-alt="Photo of the member" fig-align="center"}
+
+::: {.article-btn}
+[Descubre otros miembros del grupo](/miembros/index.qmd)
+:::

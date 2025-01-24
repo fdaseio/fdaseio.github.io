@@ -1,0 +1,11 @@
+---
+title: "Cómo unirse"
+sidebar: false
+page-layout: article
+toc: false
+title-block-banner: true
+---
+
+El grupo está abierto a cualquier persona con interés en el área, tanto del mundo académico como de la industria. 
+
+Para inscribirte puedes seguir los pasos que se facilitan en la página web de la [SEIO](https://www.seio.es/membership/). Si tienes cualquier consulta no dudes en escribirnos.

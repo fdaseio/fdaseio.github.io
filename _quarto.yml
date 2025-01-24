@@ -17,100 +17,45 @@ project:
   - "etc/**"
 
 website:
-  title: "Functional Data Analysis SEIO Working Group"
+  title: "Grupo de Trabajo de Datos Funcionales de la SEIO"
   image: images/rwds-logo-150px.png
   favicon: images/rwds-favicon.png
-  twitter-card:
-    site: "@rwdatasci"
   open-graph: true
-  site-url: https://realworlddatascience.net/
-  repo-url: https://github.com/realworlddatascience/realworlddatascience.github.io
-  repo-actions: [edit, issue]
-  # If you are forking our repo to develop content -- whether for Real World Data Science 
-  # or your own purposes -- please disable our Google Analytics tag during development.
-  # If building your own site, replace our GA tag with your own GA tag before deployment.
-  # This will prevent your activity being tracked and counted in our analytics dashboard.
-  # Thank you!
+  site-url: https://fdaseio.github.io/
+  repo-url: https://github.com/fdaseio/fdaseio.github.io
   navbar:
     background: "#f0eeeb"
     logo: images/rwds-logo-150px.png
-    logo-alt: "Real World Data Science brand"
+    logo-alt: "Grupo de Trabajo de Datos Funcionales de la SEIO"
     title: false
     collapse-below: lg
     right:
-      - case-studies/index.qmd
-      - ideas/index.qmd
-      - careers/index.qmd
-      - viewpoints/index.qmd
-      - text: "About RWDS"
+      - text: "Sobre el grupo"
         menu: 
-        - text: "Who we are"
+        - text: "Quiénes somos"
           href: about-rwds.qmd
-        - text: "How to contribute"
-          href: contributor-docs/call-for-contributions.qmd
-        - text: "Contact us"
+        - text: "Cómo unirse"
+          href: join.qmd
+        - text: "Contacto"
           href: contact.qmd
-  sidebar: 
-    - title: "About us"
-      contents:
-        - about-rwds.qmd
-        - viewpoints/editors-blog/posts/2022/10/18/meet-the-team.qmd
-        - rwds-partners.qmd
-        - contact.qmd
-        - ts-and-cs.qmd
-    - title: "Call for contributions"
-      contents:
-        - contributor-docs/call-for-contributions.qmd
-        - contributor-docs/case-studies.qmd
-        - contributor-docs/explainers.qmd
-        - contributor-docs/exercises.qmd
-        - contributor-docs/datasets.qmd
-        - contributor-docs/training-guides.qmd
-        - contributor-docs/recommender.qmd
-        - contributor-docs/datasciencebites.qmd
-        - contributor-docs/contributor-guidelines.qmd
-        - contributor-docs/style-guide.qmd
-    - title: "Careers"
-      contents:
-        - careers/index.qmd
-        - careers/career-profiles/index.qmd
-    - title: "Ideas"
-      contents:
-        - ideas/index.qmd
-        - ideas/tutorials/index.qmd
-        - ideas/datasciencebites/index.qmd
-    - title: "Viewpoints"
-      contents: 
-        - viewpoints/index.qmd
-        - viewpoints/editors-blog/index.qmd
-        - viewpoints/interviews/index.qmd
-        - href: viewpoints/newsletter/index.qmd
-          text: Newsletter
+      - text: "Eventos" 
+        href: eventos/index.qmd
+      - text: "Miembros"
+        href: miembros/index.qmd
 
   page-navigation: true
 
   page-footer:
     background: "#000000"
     left: |
-      Copyright &copy; 2023 [Royal Statistical Society](https://rss.org.uk/)
+      Copyright &copy; 2025 FDA-SEIO
     center:  
-      - href: https://github.com/realworlddatascience
+      - href: https://github.com/fdaseio/fdaseio.github.io
         icon: github
-        aria-label: GitHub
-      - href: https://twitter.com/rwdatasci
-        icon: twitter
-        aria-label: Twitter
-      - href: https://fosstodon.org/@rwdatasci
-        icon: mastodon
-        aria-label: Mastodon
-      - href: https://www.linkedin.com/showcase/rss-real-world-data-science
-        icon: linkedin
-        aria-label: LinkedIn
-      - href: feeds.html
-        icon: rss
-        aria-label: RWDS rss
+      - href: https://www.researchgate.net/lab/FDA-working-group-Spanish-Society-of-Stat-and-OR-SEIO-Paula-Navarro-Esteban
+        text:  "{{< iconify fa6-brands researchgate >}}"
     right: |
-      [Terms & Conditions](/ts-and-cs.qmd)
+      [Terminos & Condiciones](/ts-and-cs.qmd)
 
 format:
   html:
