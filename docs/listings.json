@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/latest-content.html",
+    "items": []
+  },
+  {
     "listing": "/eventos/index.html",
     "items": [
       "/eventos/posts/2024/road-to-reproducible-research.html",
@@ -7,11 +11,10 @@
     ]
   },
   {
-    "listing": "/latest-content.html",
-    "items": []
-  },
-  {
     "listing": "/miembros/index.html",
-    "items": []
+    "items": [
+      "/miembros/posts/luis_rodriguez/tamanna-haque.html",
+      "/miembros/posts/tamanna-haque/tamanna-haque.html"
+    ]
   }
 ]
