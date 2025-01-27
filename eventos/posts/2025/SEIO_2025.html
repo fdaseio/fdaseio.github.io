@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Página del grupo de trabajo de Análisis de Datos Funcionales de la Sociedad Española de Estadística e Investigación Operativa (SEIO).">
+<meta name="dcterms.date" content="2025-10-06">
 
-<title>Grupo de Trabajo de Análisis de Datos Funcionales de la SEIO – Grupo de Trabajo de Datos Funcionales de la SEIO</title>
+<title>Congreso SEIO Lleida 2025 – Grupo de Trabajo de Datos Funcionales de la SEIO</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,24 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./images/rwds-favicon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8adcdd15c8b3148299dc6f7b148378ed.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../images/rwds-favicon.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-8adcdd15c8b3148299dc6f7b148378ed.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,26 +69,45 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<!-- Thank you to Ben Ruijl for the progress bar code!
+Ben is on GitHub here: https://github.com/benruijl
+And you can see the original code here: https://github.com/quarto-dev/quarto-cli/discussions/3842#discussioncomment-4591721 -->
 
-
-<link rel="stylesheet" href="rwds.css">
-<meta property="og:title" content="Grupo de Trabajo de Análisis de Datos Funcionales de la SEIO">
-<meta property="og:description" content="Página del grupo de trabajo de Análisis de Datos Funcionales de la Sociedad Española de Estadística e Investigación Operativa (SEIO).">
-<meta property="og:image" content="https://fdaseio.github.io/images/rwds-logo-150px.png">
+<meta property="og:title" content="Congreso SEIO Lleida 2025 – Grupo de Trabajo de Datos Funcionales de la SEIO">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://fdaseio.github.io/eventos/posts/2025/images/lleida.jpg">
 <meta property="og:site_name" content="Grupo de Trabajo de Datos Funcionales de la SEIO">
-<meta property="og:image:height" content="150">
-<meta property="og:image:width" content="259">
-</head>
+</head><body class="nav-fixed"><div id="progress-bar" style="width: 0%; height:4px; background-color: #939bc9;; position: fixed; top: 0px; z-index: 2000;"></div>
 
-<body class="nav-fixed fullcontent">
+<script id="progressbar" type="text/javascript">
+
+document.addEventListener("DOMContentLoaded", function() {
+
+    const bar = document.querySelector('#progress-bar');
+    const post = document.querySelector('#quarto-content');
+    const html = document.documentElement;
+    
+    const height = post.scrollHeight + post.offsetTop;
+    
+    window.addEventListener('scroll', () => {
+        bar.style.width = (html.scrollTop / (height- html.clientHeight)) * 100 + '%';
+    });
+});
+</script>
+
+
+<link rel="stylesheet" href="../../../rwds.css">
+
+
+
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/rwds-logo-150px.png" alt="Grupo de Trabajo de Datos Funcionales de la SEIO" class="navbar-logo">
+    <a href="../../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../../images/rwds-logo-150px.png" alt="Grupo de Trabajo de Datos Funcionales de la SEIO" class="navbar-logo">
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -103,25 +122,25 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-sobre-el-grupo">    
         <li>
-    <a class="dropdown-item" href="./about-rwds.html">
+    <a class="dropdown-item" href="../../../about-rwds.html">
  <span class="dropdown-text">Quiénes somos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./join.html">
+    <a class="dropdown-item" href="../../../join.html">
  <span class="dropdown-text">Cómo unirse</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./contact.html">
+    <a class="dropdown-item" href="../../../contact.html">
  <span class="dropdown-text">Contacto</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./eventos/index.html"> 
+    <a class="nav-link" href="../../../eventos/index.html"> 
 <span class="menu-text">Eventos</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./miembros/index.html"> 
+    <a class="nav-link" href="../../../miembros/index.html"> 
 <span class="menu-text">Miembros</span></a>
   </li>  
 </ul>
@@ -132,73 +151,58 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-layout-custom page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Congreso SEIO Lleida 2025</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">SEIO</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">October 6, 2025</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#link-a-la-página-web" id="toc-link-a-la-página-web" class="nav-link active" data-scroll-target="#link-a-la-página-web">Link a la página web</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="content-container">
-<div class="top-story purple-background">
-<p><a href="./case-studies/posts/2024/11/22/development-plan-2.qmd"></a></p><a href="./case-studies/posts/2024/11/22/development-plan-2.qmd">
-<div class="grid">
-<section id="grupo-de-trabajo-de-análisis-de-datos-funcionales-de-la-sociedad-española-de-estadística-e-investigación-operativa" class="g-col-12 g-col-lg-4 top-story-text">
-<h2>Grupo de Trabajo de Análisis de Datos Funcionales de la Sociedad Española de Estadística e Investigación Operativa</h2>
+
+<section id="link-a-la-página-web" class="level2">
+<h2 class="anchored" data-anchor-id="link-a-la-página-web">Link a la página web</h2>
+<p><a href="https://seio2025.com/es/">https://seio2025.com/es/</a></p>
+
+
 </section>
-<div class="g-col-12 g-col-lg-8 top-story-img">
-<p><img src="images/fda.jpg" class="img-fluid"></p>
-</div>
-</div>
-</a><p><a href="./case-studies/posts/2024/11/22/development-plan-2.qmd"></a></p>
-</div>
-</div>
-<div class="header-text">
-<div class="content-container">
-<div class="header-block">
-<p>Bienvenido al grupo de trabajo de Análisis de Datos Functionales. Nuestro objetivo es desarrollar y difundir esta área de la estadística dentro y fuera del territorio nacional. Es nuestra prioridad crear una red de investigadores que promueva la transmision de conocimiento, motive la colaboracion y por consiguiente, el desarrollo de nuevos resultados en el area.</p>
-<p>La <a href="https://www.seio.es/">Sociedad Española de Estadística e Investigación Operativa (SEIO)</a> es una organización autónoma que tiene como objetivo el desarrollo, mejora y promoción de los métodos y aplicaciones de la Estadística y de la Investigación Operativa, en su sentido más amplio.</p>
-</div>
-</div>
-</div>
-<div class="footer-text">
-<div class="footer-container black-background">
-<div class="footer-block">
-<div class="grid">
-<section id="con-el-soporte-de" class="g-col-12 g-col-md-2">
-<h3>Con el soporte de</h3>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><a href="https://www.seio.es/"><img src="images/seio.png" class="img-fluid quarto-figure quarto-figure-left figure-img"></a></p>
-</figure>
-</div>
-</section>
-<div class="g-col-12 g-col-md-2">
 
-</div>
-<section id="quiénes-somos" class="g-col-12 g-col-md-2">
-<h3>Quiénes somos</h3>
-<p><a href="./about-rwds.html">Nuestros objetivos</a><br>
-<a href="./contact.html">Contacto</a></p>
-</section>
-<section id="únete" class="g-col-12 g-col-md-2">
-<h3>Únete!</h3>
-<p><a href="./join.html">Instrucciones</a><br>
-</p>
-</section>
-<!-- ::: {.g-col-12 .g-col-md-12}
-### Our partners
-logos to go here
-::: -->
-</div>
-</div>
-</div>
-</div>
-
-
-
-
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -616,6 +620,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://giscus.app/client.js" data-repo="realworlddatascience/realworlddatascience.github.io" data-repo-id="R_kgDOILnnig" data-category="General" data-category-id="DIC_kwDOILnnis4CSt2s" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
+</script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="dark">
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -638,7 +646,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </ul>
     </div>
     <div class="nav-footer-right">
-<p><a href="./ts-and-cs.html">Terminos &amp; Condiciones</a></p>
+<p><a href="../../../ts-and-cs.html">Terminos &amp; Condiciones</a></p>
 </div>
   </div>
 </footer>

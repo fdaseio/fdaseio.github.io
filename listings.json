@@ -1,20 +1,32 @@
 [
   {
-    "listing": "/latest-content.html",
-    "items": []
+    "listing": "/miembros/index.html",
+    "items": [
+      "/miembros/posts/antonio_elias/antonio_elias.html",
+      "/miembros/posts/belen_pulido/belen_pulido.html",
+      "/miembros/posts/luis_rodriguez/luis_alberto_rodriguez.html"
+    ]
   },
   {
     "listing": "/eventos/index.html",
     "items": [
-      "/eventos/posts/2024/road-to-reproducible-research.html",
-      "/eventos/posts/2025/workshop_madrid.html"
+      "/eventos/posts/2025/SEIO_2025.html",
+      "/eventos/posts/2024/IIJWFDANP.html",
+      "/eventos/posts/2023/IJWFDANP.html",
+      "/eventos/posts/2019/IIIWFDA.html",
+      "/eventos/posts/2017/IIWFDA.html",
+      "/eventos/posts/2015/IWFDA.html"
     ]
   },
   {
-    "listing": "/miembros/index.html",
+    "listing": "/latest-content.html",
     "items": [
-      "/miembros/posts/luis_rodriguez/tamanna-haque.html",
-      "/miembros/posts/tamanna-haque/tamanna-haque.html"
+      "/eventos/posts/2025/SEIO_2025.html",
+      "/eventos/posts/2024/IIJWFDANP.html",
+      "/eventos/posts/2023/IJWFDANP.html",
+      "/eventos/posts/2019/IIIWFDA.html",
+      "/eventos/posts/2017/IIWFDA.html",
+      "/eventos/posts/2015/IWFDA.html"
     ]
   }
 ]
