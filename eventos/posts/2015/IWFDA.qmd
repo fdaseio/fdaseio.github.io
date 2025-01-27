@@ -1,0 +1,9 @@
+---
+title: "I International Workshop on Advances in Functional Data Analysis"
+description: " "
+categories:
+  - Workshop
+date: 06/15/2015
+toc: true
+image: images/getafe1.jpg
+---

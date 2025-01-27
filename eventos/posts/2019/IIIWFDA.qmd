@@ -1,0 +1,9 @@
+---
+title: "III International Workshop on Advances in Functional Data Analysis"
+description: " "
+categories:
+  - Workshop
+date: 06/15/2019
+toc: true
+image: images/castro.jpg
+---

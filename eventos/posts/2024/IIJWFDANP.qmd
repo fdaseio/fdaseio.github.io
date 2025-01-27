@@ -1,0 +1,13 @@
+---
+title: "II Joint Workshop of Functional Data Analysis and Non Parametric Statistics"
+description: " "
+categories:
+  - Joint Workshop
+date: 10/09/2024
+toc: true
+image: images/lacristalera.jpg
+---
+
+## Link a la página web
+
+[https://iiwfdanp.webnode.page/](https://iiwfdanp.webnode.page/)

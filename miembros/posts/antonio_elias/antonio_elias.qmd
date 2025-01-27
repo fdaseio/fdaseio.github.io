@@ -1,0 +1,16 @@
+---
+title: "Antonio Elías"
+description: |
+  aelias@uma.es
+author: Coordinador
+categories:
+  - Universidad de Málaga
+  - Machine learning
+  - Depth
+image: antonio_elias.jpg
+toc: false
+---
+
+# Bio
+
+Trabajo en medidas de profundidad y aplicaciones a diferentes problemas estadísticos.

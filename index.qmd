@@ -17,8 +17,7 @@ toc: false
 
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .top-story-text}
-## Grupo de Trabajo de Análisis de Datos Funcionales de la SEIO
-Aquí se pueden poner más cosas
+## Grupo de Trabajo de Análisis de Datos Funcionales de la Sociedad Española de Estadística e Investigación Operativa
 :::
 ::: {.g-col-12 .g-col-lg-8 .top-story-img}
 ![](images/fda.jpg)

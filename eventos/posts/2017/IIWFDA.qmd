@@ -1,0 +1,9 @@
+---
+title: "II International Workshop on Advances in Functional Data Analysis"
+description: " "
+categories:
+  - Workshop
+date: 06/15/2017
+toc: true
+image: images/getafe2.jpg
+---

@@ -8,10 +8,8 @@ search: false
 page-layout: article  
 listing:
   contents: 
-  - /case-studies
-  - /ideas
-  - /careers
-  - /viewpoints
+  - /eventos
+  - /miebros
   - "!index.qmd"
   sort: "date desc"
   type: grid

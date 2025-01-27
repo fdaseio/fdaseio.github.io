@@ -1,0 +1,13 @@
+---
+title: "I Joint Workshop of Functional Data Analysis and Non Parametric Statistics"
+description: " "
+categories:
+  - Joint Workshop
+date: 06/06/2023
+toc: true
+image: images/fotogrupo.jpg
+---
+
+## Link a la página web
+
+[https://iwfdanp.webnode.es/](https://iwfdanp.webnode.es/)

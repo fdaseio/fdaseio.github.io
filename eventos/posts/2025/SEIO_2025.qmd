@@ -1,0 +1,13 @@
+---
+title: "Congreso SEIO Lleida 2025"
+description: " "
+categories:
+  - SEIO
+date: 10/06/2025
+toc: true
+image: images/lleida.jpg
+---
+
+## Link a la página web
+
+[https://seio2025.com/es/](https://seio2025.com/es/)

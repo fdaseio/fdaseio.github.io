@@ -1,0 +1,20 @@
+---
+title: "Luis Alberto Rodríguez"
+description: |
+  luis.rodriguez@uni-goettingen.de
+author: Coordinador
+categories:
+  - Universidad de Gottigen
+  - Cosas
+image: luis_alberto_rodriguez.jpg
+toc: false
+---
+
+## Bio
+
+Incluir aqui biografía, intereses y links.
+
+
+<!-- ::: {.article-btn} -->
+<!-- [Otros miembros del grupo](/miembros/index.qmd) -->
+<!-- ::: -->
