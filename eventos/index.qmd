@@ -2,7 +2,8 @@
 pagetitle: Eventos
 title: Eventos
 subtitle: Congresos de la SEIO, Talleres y Reuniones de Trabajo
-search: false  
+search: false
+comments: false
 listing:
   contents: 
   - posts

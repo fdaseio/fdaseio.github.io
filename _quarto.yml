@@ -18,14 +18,14 @@ project:
 
 website:
   title: "Grupo de Trabajo de Datos Funcionales de la SEIO"
-  image: images/rwds-logo-150px.png
-  favicon: images/rwds-favicon.png
+  image: images/fda-logo-150px.png
+  favicon: images/fda-favicon.png
   open-graph: true
   site-url: https://fdaseio.github.io/
   repo-url: https://github.com/fdaseio/fdaseio.github.io
   navbar:
     background: "#f0eeeb"
-    logo: images/rwds-logo-150px.png
+    logo: images/fda-logo-150px.png
     logo-alt: "Grupo de Trabajo de Datos Funcionales de la SEIO"
     title: false
     collapse-below: lg
