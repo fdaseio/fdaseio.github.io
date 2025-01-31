@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Grupo de Trabajo de Datos Funcionales de la SEIO</title>
+<link>https://fdaseio.github.io/latest-content.html</link>
+<atom:link href="https://fdaseio.github.io/latest-content.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://fdaseio.github.io/images/rwds-logo-150px.png</url>
+<title>Grupo de Trabajo de Datos Funcionales de la SEIO</title>
+<link>https://fdaseio.github.io/latest-content.html</link>
+<height>83</height>
+<width>144</width>
+</image>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Mon, 09 Jun 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Congreso SEIO Lleida 2025</title>
+  <link>https://fdaseio.github.io/eventos/posts/2025/SEIO_2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="link-a-la-página-web" class="level2">
+<h2 class="anchored" data-anchor-id="link-a-la-página-web">Link a la página web</h2>
+<p><a href="https://seio2025.com/es/">https://seio2025.com/es/</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>SEIO</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2025/SEIO_2025.html</guid>
+  <pubDate>Mon, 09 Jun 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2025/images/lleida.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>II Joint Workshop of Functional Data Analysis and Non Parametric Statistics</title>
+  <link>https://fdaseio.github.io/eventos/posts/2024/IIJWFDANP.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="link-a-la-página-web" class="level2">
+<h2 class="anchored" data-anchor-id="link-a-la-página-web">Link a la página web</h2>
+<p><a href="https://iiwfdanp.webnode.page/">https://iiwfdanp.webnode.page/</a></p>
+</section>
+<section id="libro-de-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="libro-de-abstracts">Libro de Abstracts</h2>
+<object data="Proceedings_FDA_NP_2024_16_09.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="Proceedings_FDA_NP_2024_16_09.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+
+
+</section>
+
+ ]]></description>
+  <category>Joint Workshop</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2024/IIJWFDANP.html</guid>
+  <pubDate>Mon, 09 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2024/images/lacristalera.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>I Joint Workshop of Functional Data Analysis and Non Parametric Statistics</title>
+  <link>https://fdaseio.github.io/eventos/posts/2023/IJWFDANP.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="link-a-la-página-web" class="level2">
+<h2 class="anchored" data-anchor-id="link-a-la-página-web">Link a la página web</h2>
+<p><a href="https://iwfdanp.webnode.es/">https://iwfdanp.webnode.es/</a></p>
+</section>
+<section id="libro-de-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="libro-de-abstracts">Libro de Abstracts</h2>
+<object data="JW-NP-FDA - Proceedings Updated 9th of June.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="JW-NP-FDA - Proceedings Updated 9th of June.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+
+
+</section>
+
+ ]]></description>
+  <category>Joint Workshop</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2023/IJWFDANP.html</guid>
+  <pubDate>Mon, 05 Jun 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2023/images/fotogrupo.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>III International Workshop on Advances in Functional Data Analysis</title>
+  <link>https://fdaseio.github.io/eventos/posts/2019/IIIWFDA.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Workshop</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2019/IIIWFDA.html</guid>
+  <pubDate>Fri, 14 Jun 2019 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2019/images/castro.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>II International Workshop on Advances in Functional Data Analysis</title>
+  <link>https://fdaseio.github.io/eventos/posts/2017/IIWFDA.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="libro-de-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="libro-de-abstracts">Libro de Abstracts</h2>
+<object data="IIWFDA_abstract_2017.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="IIWFDA_abstract_2017.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+
+
+</section>
+
+ ]]></description>
+  <category>Workshop</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2017/IIWFDA.html</guid>
+  <pubDate>Wed, 14 Jun 2017 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2017/images/getafe2.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>I International Workshop on Advances in Functional Data Analysis</title>
+  <link>https://fdaseio.github.io/eventos/posts/2015/IWFDA.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="libro-de-abstracts" class="level2">
+<h2 class="anchored" data-anchor-id="libro-de-abstracts">Libro de Abstracts</h2>
+<object data="IWFDA_abstract_2015.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="IWFDA_abstract_2015.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+
+
+</section>
+
+ ]]></description>
+  <category>Workshop</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2015/IWFDA.html</guid>
+  <pubDate>Sun, 14 Jun 2015 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2015/images/getafe1.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>IV Reunión de Trabajo del Grupo Análisis de Datos Funcionales</title>
+  <link>https://fdaseio.github.io/eventos/posts/2014/reunionGT_2014.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="libro-de-actas" class="level2">
+<h2 class="anchored" data-anchor-id="libro-de-actas">Libro de Actas</h2>
+<object data="actas2014.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="actas2014.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+
+
+</section>
+
+ ]]></description>
+  <category>Meeting</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2014/reunionGT_2014.html</guid>
+  <pubDate>Mon, 16 Jun 2014 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2014/images/chiclana.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>I Reunión de Trabajo del Grupo Análisis de Datos Funcionales</title>
+  <link>https://fdaseio.github.io/eventos/posts/2011/reunionGT_2011.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="libro-de-actas" class="level2">
+<h2 class="anchored" data-anchor-id="libro-de-actas">Libro de Actas</h2>
+<object data="actas2011.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="actas2011.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+
+
+</section>
+
+ ]]></description>
+  <category>Meeting</category>
+  <guid>https://fdaseio.github.io/eventos/posts/2011/reunionGT_2011.html</guid>
+  <pubDate>Tue, 14 Jun 2011 22:00:00 GMT</pubDate>
+  <media:content url="https://fdaseio.github.io/eventos/posts/2011/images/reunion2011.png" medium="image" type="image/png" height="198" width="144"/>
+</item>
+</channel>
+</rss>
