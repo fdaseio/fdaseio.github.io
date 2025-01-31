@@ -3,7 +3,7 @@ title: "II Joint Workshop of Functional Data Analysis and Non Parametric Statist
 description: " "
 categories:
   - Joint Workshop
-date: 10/09/2024
+date: 09/10/2024
 toc: true
 image: images/lacristalera.jpg
 ---
@@ -11,3 +11,13 @@ image: images/lacristalera.jpg
 ## Link a la página web
 
 [https://iiwfdanp.webnode.page/](https://iiwfdanp.webnode.page/)
+
+## Libro de Abstracts
+
+```{=html}
+<object data="Proceedings_FDA_NP_2024_16_09.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="Proceedings_FDA_NP_2024_16_09.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```

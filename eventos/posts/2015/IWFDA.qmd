@@ -7,3 +7,13 @@ date: 06/15/2015
 toc: true
 image: images/getafe1.jpg
 ---
+
+## Libro de Abstracts
+
+```{=html}
+<object data="IWFDA_abstract_2015.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="IWFDA_abstract_2015.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```

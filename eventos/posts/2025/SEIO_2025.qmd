@@ -3,7 +3,7 @@ title: "Congreso SEIO Lleida 2025"
 description: " "
 categories:
   - SEIO
-date: 10/06/2025
+date: 06/10/2025
 toc: true
 image: images/lleida.jpg
 ---
