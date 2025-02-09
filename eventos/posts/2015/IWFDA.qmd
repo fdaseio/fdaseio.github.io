@@ -6,6 +6,7 @@ categories:
 date: 06/15/2015
 toc: true
 image: images/getafe1.jpg
+comments: false
 ---
 
 ## Libro de Abstracts

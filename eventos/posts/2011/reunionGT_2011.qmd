@@ -6,6 +6,7 @@ categories:
 date: 06/15/2011
 toc: false
 image: images/reunion2011.png
+comments: false
 ---
 
 ## Libro de Actas

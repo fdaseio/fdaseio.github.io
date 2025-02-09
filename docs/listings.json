@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/miembros/index.html",
-    "items": [
-      "/miembros/posts/antonio_elias/antonio_elias.html",
-      "/miembros/posts/belen_pulido/belen_pulido.html",
-      "/miembros/posts/luis_rodriguez/luis_alberto_rodriguez.html"
-    ]
-  },
-  {
     "listing": "/eventos/index.html",
     "items": [
       "/eventos/posts/2025/SEIO_2025.html",
@@ -31,6 +23,14 @@
       "/eventos/posts/2015/IWFDA.html",
       "/eventos/posts/2014/reunionGT_2014.html",
       "/eventos/posts/2011/reunionGT_2011.html"
+    ]
+  },
+  {
+    "listing": "/miembros/index.html",
+    "items": [
+      "/miembros/posts/antonio_elias/antonio_elias.html",
+      "/miembros/posts/belen_pulido/belen_pulido.html",
+      "/miembros/posts/luis_rodriguez/luis_alberto_rodriguez.html"
     ]
   }
 ]

@@ -1,16 +1,23 @@
 ---
 title: "Antonio Elías"
-description: |
-  aelias@uma.es
-author: Coordinador
 categories:
   - Universidad de Málaga
-  - Machine learning
-  - Depth
 image: antonio_elias.jpg
 toc: false
+about:
+  id: hero-heading
+  template: jolla
+  links:
+       - text: "{{< ai google-scholar >}}" 
+         href: https://scholar.google.es/citations?user=nx1VBZEAAAAJ&hl=es
+       - text: "{{< ai orcid >}}" 
+         href: https://orcid.org/0000-0002-3078-549X
+       - icon: github
+         href: https://github.com/aefdz
+       - icon: linkedin
+         href: https://www.linkedin.com/in/antonio-el%C3%ADas-fern%C3%A1ndez-656ab495/
+       - icon: envelope
+         href: "mailto:mail.aelias@uma.es"
 ---
 
-# Bio
-
-Trabajo en medidas de profundidad y aplicaciones a diferentes problemas estadísticos.
+Trabajo en medidas de profundidad y sus aplicaciones a diferentes problemas estadísticos.

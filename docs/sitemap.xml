@@ -1,83 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://fdaseio.github.io/eventos/posts/2024/IIJWFDANP.html</loc>
-    <lastmod>2025-01-31T12:25:16.372Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/eventos/posts/2017/IIWFDA.html</loc>
-    <lastmod>2025-01-31T12:19:25.780Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/eventos/posts/2014/reunionGT_2014.html</loc>
-    <lastmod>2025-01-31T12:14:27.465Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/ts-and-cs.html</loc>
-    <lastmod>2025-01-27T10:49:39.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/miembros/posts/belen_pulido/belen_pulido.html</loc>
-    <lastmod>2025-01-27T09:52:01.848Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/miembros/index.html</loc>
-    <lastmod>2025-01-27T10:48:05.717Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/join.html</loc>
-    <lastmod>2025-01-24T21:03:40.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/feeds.html</loc>
-    <lastmod>2025-01-24T11:01:39.198Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/eventos/posts/2019/IIIWFDA.html</loc>
-    <lastmod>2025-01-31T12:21:51.593Z</lastmod>
+    <loc>https://fdaseio.github.io/about.html</loc>
+    <lastmod>2025-02-09T14:31:30.538Z</lastmod>
   </url>
   <url>
     <loc>https://fdaseio.github.io/contact.html</loc>
-    <lastmod>2025-01-24T21:09:39.463Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/about-rwds.html</loc>
-    <lastmod>2025-01-24T21:46:39.805Z</lastmod>
+    <lastmod>2025-02-09T14:29:53.616Z</lastmod>
   </url>
   <url>
     <loc>https://fdaseio.github.io/eventos/index.html</loc>
-    <lastmod>2025-01-31T14:00:26.246Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/eventos/posts/2025/SEIO_2025.html</loc>
-    <lastmod>2025-01-31T12:11:43.968Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/index.html</loc>
-    <lastmod>2025-01-27T10:01:59.441Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/latest-content.html</loc>
-    <lastmod>2025-01-27T11:03:51.035Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/miembros/posts/antonio_elias/antonio_elias.html</loc>
-    <lastmod>2025-01-27T09:46:43.687Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fdaseio.github.io/miembros/posts/luis_rodriguez/luis_alberto_rodriguez.html</loc>
-    <lastmod>2025-01-27T10:04:35.482Z</lastmod>
+    <lastmod>2025-02-09T14:29:59.097Z</lastmod>
   </url>
   <url>
     <loc>https://fdaseio.github.io/eventos/posts/2011/reunionGT_2011.html</loc>
-    <lastmod>2025-01-31T12:14:23.282Z</lastmod>
+    <lastmod>2025-02-09T14:30:02.287Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/eventos/posts/2014/reunionGT_2014.html</loc>
+    <lastmod>2025-02-09T14:30:06.538Z</lastmod>
   </url>
   <url>
     <loc>https://fdaseio.github.io/eventos/posts/2015/IWFDA.html</loc>
-    <lastmod>2025-01-31T12:17:08.482Z</lastmod>
+    <lastmod>2025-02-09T14:30:09.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/eventos/posts/2017/IIWFDA.html</loc>
+    <lastmod>2025-02-09T14:30:13.260Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/eventos/posts/2019/IIIWFDA.html</loc>
+    <lastmod>2025-02-09T14:30:16.548Z</lastmod>
   </url>
   <url>
     <loc>https://fdaseio.github.io/eventos/posts/2023/IJWFDANP.html</loc>
-    <lastmod>2025-01-31T12:23:42.708Z</lastmod>
+    <lastmod>2025-02-09T14:30:19.836Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/eventos/posts/2024/IIJWFDANP.html</loc>
+    <lastmod>2025-02-09T14:30:23.305Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/eventos/posts/2025/SEIO_2025.html</loc>
+    <lastmod>2025-02-09T14:30:26.543Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/index.html</loc>
+    <lastmod>2025-02-09T14:30:29.863Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/join.html</loc>
+    <lastmod>2025-02-09T14:31:41.488Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/latest-content.html</loc>
+    <lastmod>2025-02-09T14:30:37.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/miembros/index.html</loc>
+    <lastmod>2025-02-09T14:30:42.111Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/miembros/posts/antonio_elias/antonio_elias.html</loc>
+    <lastmod>2025-02-09T14:30:44.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/miembros/posts/belen_pulido/belen_pulido.html</loc>
+    <lastmod>2025-02-09T14:30:48.193Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/miembros/posts/luis_rodriguez/luis_alberto_rodriguez.html</loc>
+    <lastmod>2025-02-09T14:30:52.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fdaseio.github.io/ts-and-cs.html</loc>
+    <lastmod>2025-02-09T14:30:55.789Z</lastmod>
   </url>
 </urlset>

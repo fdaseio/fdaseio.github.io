@@ -6,6 +6,7 @@ categories:
 date: 09/10/2024
 toc: true
 image: images/lacristalera.jpg
+comments: false
 ---
 
 ## Link a la página web

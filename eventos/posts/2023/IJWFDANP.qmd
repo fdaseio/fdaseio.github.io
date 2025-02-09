@@ -6,6 +6,7 @@ categories:
 date: 06/06/2023
 toc: true
 image: images/fotogrupo.jpg
+comments: false
 ---
 
 ## Link a la página web

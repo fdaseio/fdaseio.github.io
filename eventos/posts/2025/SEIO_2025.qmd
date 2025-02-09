@@ -6,6 +6,7 @@ categories:
 date: 06/10/2025
 toc: true
 image: images/lleida.jpg
+comments: false
 ---
 
 ## Link a la página web

@@ -6,7 +6,7 @@ editor: source
 sidebar: false
 search: false
 description: | 
-  Página del grupo de trabajo de Análisis de Datos Funcionales de la Sociedad Española de Estadística e Investigación Operativa (SEIO).
+  Grupo de Trabajo de Análisis de Datos Funcionales de la Sociedad Española de Estadística e Investigación Operativa (SEIO).
 image: images/rwds-logo-150px.png
 toc: false
 ---
@@ -52,10 +52,8 @@ La [Sociedad Española de Estadística e Investigación Operativa (SEIO)](https:
 [![](images/seio.png){fig-align="left"}](https://www.seio.es/)
 :::
 ::: {.g-col-12 .g-col-md-2}
-:::
-::: {.g-col-12 .g-col-md-2}
 ### Quiénes somos
-[Nuestros objetivos](about-rwds.qmd)\
+[Nuestros objetivos](about.qmd)\
 [Contacto](contact.qmd)
 :::
 ::: {.g-col-12 .g-col-md-2}
@@ -63,11 +61,6 @@ La [Sociedad Española de Estadística e Investigación Operativa (SEIO)](https:
 [Instrucciones](join.qmd)\
 :::
 
-
-<!-- ::: {.g-col-12 .g-col-md-12}
-### Our partners
-logos to go here
-::: -->
 
 :::
 :::
